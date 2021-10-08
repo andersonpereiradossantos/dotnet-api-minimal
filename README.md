@@ -1,4 +1,4 @@
-# Minamal API in .NET 6
+# Minimal API in .NET 6
 
 [![Licence](https://img.shields.io/npm/l/react)](https://github.com/andersonpereiradossantos/dotcore-api-minimal/blob/master/LICENSE) 
 
