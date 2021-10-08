@@ -29,7 +29,10 @@ app.MapGet("/sales/{id}", async (long id, dbContext db) =>
 {
     Sales sales = await db.Sales.FindAsync(id);
 
-    return Results.Ok(sales);
+    if(sales != null)
+        return Results.Ok(sales);
+    
+    return Results.NotFound();
 });
 
 app.MapPost("/sales", async (Sales sales, dbContext db) =>
@@ -72,4 +75,4 @@ public class dbContext : DbContext
         => options.UseSqlServer("Server=YourHost;Database=Company;User Id=YourUser;Password=YourPassword;");
 }
 
-public record Sales(long Id, DateTime DataTime, string Seller, double Price);
+public record Sales(long Id, DateTime DataTime, string Product, double Price);
