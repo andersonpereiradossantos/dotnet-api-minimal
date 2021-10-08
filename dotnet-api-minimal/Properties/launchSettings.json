@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "dotcore_api_minimal": {
+    "dotnet_api_minimal": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

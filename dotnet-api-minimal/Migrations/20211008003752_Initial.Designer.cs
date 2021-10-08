@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace dotcore_api_minimal.Migrations
+namespace dotnet_api_minimal.Migrations
 {
     [DbContext(typeof(dbContext))]
     [Migration("20211008003752_Initial")]

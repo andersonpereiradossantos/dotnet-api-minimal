@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace dotcore_api_minimal.Migrations
+namespace dotnet_api_minimal.Migrations
 {
     [DbContext(typeof(dbContext))]
     partial class dbContextModelSnapshot : ModelSnapshot
