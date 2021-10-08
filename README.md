@@ -28,6 +28,9 @@ git clone https://github.com/andersonpereiradossantos/dotcore-api-minimal.git
 ## License
 This project is shared under the MIT license. This means you can modify and use it however you want, even for comercial use. If you liked it, consider marking a ⭐️.
 
+## Articles
+
+* [Writing a Minimal API with .NET 6 (Brazilian Portuguese)](https://www.linkedin.com/pulse/escrevendo-uma-minimal-api-com-net-6-pereira-dos-santos-ctfl/?trackingId=4k1NG0VuSZ2HnYhANfcRMQ%3D%3D)
 
 ## Author
 
