@@ -30,7 +30,8 @@ This project is shared under the MIT license. This means you can modify and use 
 
 ## Articles
 
-* [Writing a Minimal API with .NET 6 (Brazilian Portuguese)](https://www.linkedin.com/pulse/escrevendo-uma-minimal-api-com-net-6-pereira-dos-santos-ctfl/?trackingId=4k1NG0VuSZ2HnYhANfcRMQ%3D%3D)
+* [Writing a Minimal API with .NET 6 (English)](https://dev.to/andersonpereiradossantos/net-6-minimal-apis-55ep)
+* [Escrevendo uma Minimal API com .NET 6 (Brazilian Portuguese)](https://www.linkedin.com/pulse/escrevendo-uma-minimal-api-com-net-6-pereira-dos-santos-ctfl/?trackingId=4k1NG0VuSZ2HnYhANfcRMQ%3D%3D)
 
 ## Author
 
