@@ -6,7 +6,6 @@
 
 Minimal API implementation example using .NET 6 and C# 10.
 
-
 ## How to run the project
 
 Prerequisites: .NET 6 or higher.
